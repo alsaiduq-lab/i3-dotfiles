@@ -1,0 +1,11 @@
+
+set $config_dir ~/.config/i3
+
+
+include "$config_dir/theme.conf"
+include "$config_dir/env.conf"
+include "$config_dir/apps.conf"
+include "$config_dir/autostart.conf"
+include "$config_dir/keybindings.conf"
+include "$config_dir/custom_keybindings.conf"
+

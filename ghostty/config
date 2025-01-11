@@ -1,0 +1,25 @@
+command = /home/cobray/.cargo/bin/fish --login --interactive
+shell-integration = fish
+
+font-family = "TypeStar OCR"
+font-size = 12
+
+background = #1A1B26
+foreground = #A9B1D6
+
+window-padding-x = 10
+window-padding-y = 10
+
+cursor-color = #7AA2F7
+selection-background = #364A82
+selection-foreground = #C0CAF5
+
+keybind = super+t=new_tab
+keybind = super+w=close_surface
+keybind = super+q=quit
+
+cursor-style = block
+cursor-style-blink = false
+window-decoration = false
+window-theme = dark
+

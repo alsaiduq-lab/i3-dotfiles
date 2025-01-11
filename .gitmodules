@@ -1,0 +1,3 @@
+[submodule "polybar/scripts/i3-windows"]
+	path = polybar/scripts/i3-windows
+	url = https://github.com/meelkor/polybar-i3-windows
